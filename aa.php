@@ -1,6 +1,7 @@
 <?php
 $msg = 'aa';
 echo $msg;
+$msg = 'aa';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
