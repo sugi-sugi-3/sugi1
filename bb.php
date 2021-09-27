@@ -9,5 +9,8 @@ echo $msg;
 <title>フォームからデータを受け取る</title>
 </head>
 <body>
+<?php
+echo $msg;
+?>
 </body>
 </html>
