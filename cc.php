@@ -1,6 +1,6 @@
 <?php
 $msg = 'cc';
-echo $msg;
+$msg = $msg . 'aa';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
