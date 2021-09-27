@@ -1,6 +1,7 @@
 <?php
-$msg = 'cc';
-$msg = $msg . 'aa';
+$msg1 = 'cc';
+$msg2 = 'dd';
+$msg3 = $msg1 . $msg2;
 ?>
 <!DOCTYPE html>
 <html lang="ja">

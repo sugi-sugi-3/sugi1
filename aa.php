@@ -1,6 +1,6 @@
 <?php
 $msg1 = 'aa';
-$msg2 = 'aa';
+$msg2 = 'bb';
 $msg3 = $msg1 . $msg2;
 ?>
 <!DOCTYPE html>
