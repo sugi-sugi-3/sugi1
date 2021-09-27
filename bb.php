@@ -1,5 +1,6 @@
 <?php
 $msg = 'bb';
+echo $msg;
 ?>
 <!DOCTYPE html>
 <html lang="ja">

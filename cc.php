@@ -1,5 +1,6 @@
 <?php
 $msg = 'cc';
+echo $msg;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
